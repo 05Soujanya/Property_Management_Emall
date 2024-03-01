@@ -1,0 +1,36 @@
+/* MarketingStaff.css */
+
+/* Style for the container div */
+.container {
+    margin: 20px;
+  }
+  
+  /* Style for the h1 element */
+  h1 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+    align-items: center;
+    text-align: center;
+  }
+  
+  /* Style for the nav element */
+  nav {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  /* Style for the links inside the nav */
+  nav a {
+    display: inline-block;
+    margin-right: 10px;
+    color: #666;
+    text-decoration: none;
+  }
+  
+  /* Style for the links when hovered */
+  nav a:hover {
+    color: #000;
+  }
+  

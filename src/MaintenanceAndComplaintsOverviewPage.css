@@ -1,0 +1,34 @@
+.complaints-overview {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+.complaints-overview h1 {
+    text-align: center;
+    color: #333;
+}
+
+.complaints-list {
+    margin-top: 20px;
+}
+
+.complaint {
+    padding: 15px;
+    margin-bottom: 10px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.complaint h2 {
+    margin-top: 0;
+    color: #0275d8;
+}
+
+.complaint p {
+    margin: 5px 0;
+}
+
+/* Consider adding more styles for different urgency levels or status */
